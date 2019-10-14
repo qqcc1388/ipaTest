@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.jb398.cn/201910140540.ipa</string>
+					<string>https://github.com/qqcc1388/ipaTest/blob/master/tudou11.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.jb398.cn/display.png</string>
+					<string>https://github.com/qqcc1388/ipaTest/blob/master/display.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.jb398.cn/fullsizeImage.png</string>
+					<string>https://github.com/qqcc1388/ipaTest/blob/master/fullsizeImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
